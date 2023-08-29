@@ -1,0 +1,17 @@
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\bin\Debug\net7.0\Infrastructure.Core.deps.json
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\bin\Debug\net7.0\Infrastructure.Core.dll
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\bin\Debug\net7.0\Infrastructure.Core.pdb
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\bin\Debug\net7.0\Domain.Core.dll
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\bin\Debug\net7.0\Infrastructure.Data.dll
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\bin\Debug\net7.0\Domain.Core.pdb
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\bin\Debug\net7.0\Infrastructure.Data.pdb
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\obj\Debug\net7.0\Infrastructure.Core.csproj.AssemblyReference.cache
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\obj\Debug\net7.0\Infrastructure.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\obj\Debug\net7.0\Infrastructure.Core.AssemblyInfoInputs.cache
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\obj\Debug\net7.0\Infrastructure.Core.AssemblyInfo.cs
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\obj\Debug\net7.0\Infrastructure.Core.csproj.CoreCompileInputs.cache
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\obj\Debug\net7.0\Infrastructure.Core.csproj.CopyComplete
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\obj\Debug\net7.0\Infrastructure.Core.dll
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\obj\Debug\net7.0\refint\Infrastructure.Core.dll
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\obj\Debug\net7.0\Infrastructure.Core.pdb
+D:\Learning.Web.BackEnd\dotnet\DevTube_Ir_NetCore_MicroServiceCourse\DDD_Sample_Template\Infrastructure.Core\obj\Debug\net7.0\ref\Infrastructure.Core.dll
